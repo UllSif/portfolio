@@ -1,29 +1,23 @@
 {
-  "name": "Chetan",
-  "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "name": "Portfolio",
+  "headerTaglineOne": "Bonjour 👋",
+  "headerTaglineTwo": "Je suis Guillaume Weckering,",
+  "headerTaglineThree": "développeur et intégrateur web",
+  "headerTaglineFour": "",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/UllSif"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/guillaumeweckering/"
     },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
-    },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "3", "title": "Email", "link": "mailto:weckering.guillaume@live.fr" }
   ],
   "projects": [
     {
@@ -119,8 +113,8 @@
       "universityDate": "2016-2020",
       "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": ["Javascript", "HTML5", "CSS", "PHP"],
+    "frameworks": ["React", "Angular", "Typescript", "NodeJs", "Symfony"],
+    "others": ["Figma"]
   }
 }
