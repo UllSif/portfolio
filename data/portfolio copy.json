@@ -22,10 +22,10 @@
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
+      "title": "Argent Bank",
+      "description": "Développement front-end d’une application bancaire en utilisant React et Redux pour créer une expérience utilisateur dynamique et réactive.",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/UllSif/argent_bank_front"
     },
     {
       "id": "2",

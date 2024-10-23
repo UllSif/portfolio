@@ -38,7 +38,7 @@ const BlogPost = ({ post }) => {
         <Header isBlog={true} />
         <div className="mt-10 flex flex-col">
           <img
-            className="w-full h-96 rounded-lg shadow-lg object-cover"
+            className="w-full h-96 rounded-lg shadow-lg object-cover object-fit"
             src={post.image}
             alt={post.title}
           ></img>
@@ -58,21 +58,21 @@ const BlogPost = ({ post }) => {
         <ContentSection content={post.content}></ContentSection>
         <Footer />
       </div>
-      {process.env.NODE_ENV === "development" && (
-        <div className="fixed bottom-6 right-6">
-          <Button onClick={() => setShowEditor(true)} type={"primary"}>
-            Edit this blog
-          </Button>
-        </div>
-      )}
+      {/*{process.env.NODE_ENV === "development" && (*/}
+      {/*  <div className="fixed bottom-6 right-6">*/}
+      {/*    <Button onClick={() => setShowEditor(true)} type={"primary"}>*/}
+      {/*      Edit this blog*/}
+      {/*    </Button>*/}
+      {/*  </div>*/}
+      {/*)}*/}
 
-      {showEditor && (
-        <BlogEditor
-          post={post}
-          close={() => setShowEditor(false)}
-          refresh={() => router.reload(window.location.pathname)}
-        />
-      )}
+      {/*{showEditor && (*/}
+      {/*  <BlogEditor*/}
+      {/*    post={post}*/}
+      {/*    close={() => setShowEditor(false)}*/}
+      {/*    refresh={() => router.reload(window.location.pathname)}*/}
+      {/*  />*/}
+      {/*)}*/}
     </>
   );
 };
