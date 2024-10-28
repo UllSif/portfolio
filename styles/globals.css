@@ -75,3 +75,7 @@ body {
   background: inherit;
   border-radius: inherit;
 }
+
+.profile-pic {
+  width: 70%;
+}

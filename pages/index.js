@@ -63,36 +63,36 @@ export default function Home() {
           handleWorkScroll={handleWorkScroll}
           handleAboutScroll={handleAboutScroll}
         />
-        <div className="laptop:mt-20 mt-10">
-          <div className="mt-5">
+        <div className="laptop:mt-20 mt-10 grid grid-cols-3">
+          <div className="mt-5 col-span-2">
             <h1
               ref={textOne}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
+              className="text-1xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
             >
               {data.headerTaglineOne}
             </h1>
             <h1
               ref={textTwo}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
+              className="text-1xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
             >
               {data.headerTaglineTwo}
             </h1>
             <h1
               ref={textThree}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
+              className="text-1xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
             >
               {data.headerTaglineThree}
             </h1>
-            <h1
-              ref={textFour}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
-            >
-              {data.headerTaglineFour}
-            </h1>
           </div>
-
-          <Socials className="mt-2 laptop:mt-5" />
+          <div className="mt-5 col-span-1">
+            <img
+                src={data.headerImage}
+                alt="Photo Guillaume Weckering"
+                className="object-cover profile-pic"
+            />
+          </div>
         </div>
+        <Socials className="mt-2 laptop:mt-5" />
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">TRAVAUX</h1>
 

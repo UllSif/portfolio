@@ -4,6 +4,7 @@
   "headerTaglineTwo": "Je suis Guillaume Weckering,",
   "headerTaglineThree": "développeur et intégrateur web",
   "headerTaglineFour": "",
+  "headerImage": "../../images/guillaume.webp",
   "showBlog": true,
   "darkMode": true,
   "socials": [
@@ -24,43 +25,29 @@
       "id": "1",
       "title": "Argent Bank",
       "description": "Développement front-end d’une application bancaire en utilisant React et Redux pour créer une expérience utilisateur dynamique et réactive.",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "imageSrc": "../../images/argent-bank.webp",
       "url": "https://github.com/UllSif/argent_bank_front"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Kasa",
+      "description": "Implémenter le front-end d’une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive.",
+      "imageSrc": "",
+      "url": ""
     },
     {
       "id": "3",
       "title": "Project Three",
       "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "imageSrc": "",
+      "url": ""
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Menu Maker",
+      "description": "Planifier le développement du site web, rédiger les spécifications techniques du projet, organiser le projet et créer un tableau Kanban.",
+      "imageSrc": "",
+      "url": ""
     }
   ],
   "services": [
