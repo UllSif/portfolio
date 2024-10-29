@@ -28,7 +28,11 @@
       "imageSrc": "../../images/argent-bank.webp",
       "language": "React",
       "technology": "Redux, Swagger",
-      "competence": "Afficher les données du back end sur l'interface via des appels API, configurer des routes API pour la communication client / serveur, implémenter la gestion des données avec Redux pour assurer le fonctionnement du front",
+      "competence": [
+        "Afficher les données du back end sur l'interface via des appels API",
+        "Configurer des routes API pour la communication client / serveur",
+        "Implémenter la gestion des données avec Redux pour assurer le fonctionnement du front"
+      ],
       "url": "https://github.com/UllSif/argent_bank_front"
     },
     {
@@ -38,7 +42,12 @@
       "imageSrc": "../../images/kasa.webp",
       "language": "React",
       "technology": "React router, Sass",
-      "competence": "Initialiser une application avec Create React App, configurer la navigation entre les pages de l'application avec React Router, développer des éléments de l'interface d'un site web grâce à des composants React, mettre en œuvre des animations CSS, développer une interface web avec Sass",
+      "competence": [
+        "Initialiser une application avec Create React App",
+        "Configurer la navigation entre les pages de l'application avec React Router",
+        "Développer des éléments de l'interface d'un site web grâce à des composants React",
+        "mettre en œuvre des animations CSS, développer une interface web avec Sass"
+      ],
       "url": "https://github.com/UllSif/kasa"
     },
     {
@@ -48,7 +57,10 @@
       "imageSrc": "../../images/724events.webp",
       "language": "React",
       "technology": "React Dev Tools",
-      "competence": "Débugger un site web grâce aux Chrome DevTools, rédiger un cahier de recette pour tester un site",
+      "competence": [
+        "Débugger un site web grâce aux Chrome DevTools",
+        "Rédiger un cahier de recette pour tester un site"
+      ],
       "url": "https://github.com/UllSif/724events"
     },
     {
@@ -58,7 +70,9 @@
       "imageSrc": "../../images/ninacarducci.webp",
       "language": "Javascript",
       "technology": "Tests unitaires, Wave Evaluation Tool, Lighthouse, Rich Snippet Google",
-      "competence": "Optimiser la performance d'un site web",
+      "competence": [
+        "Optimiser la performance d'un site web"
+      ],
       "url": "https://github.com/UllSif/ninacarducci"
     }
   ],
