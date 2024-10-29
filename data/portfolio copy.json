@@ -26,28 +26,40 @@
       "title": "Argent Bank",
       "description": "Développement front-end d’une application bancaire en utilisant React et Redux pour créer une expérience utilisateur dynamique et réactive.",
       "imageSrc": "../../images/argent-bank.webp",
+      "language": "React",
+      "technology": "Redux, Swagger",
+      "competence": "Afficher les données du back end sur l'interface via des appels API, configurer des routes API pour la communication client / serveur, implémenter la gestion des données avec Redux pour assurer le fonctionnement du front",
       "url": "https://github.com/UllSif/argent_bank_front"
     },
     {
       "id": "2",
       "title": "Kasa",
       "description": "Implémenter le front-end d’une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive.",
-      "imageSrc": "",
-      "url": ""
+      "imageSrc": "../../images/kasa.webp",
+      "language": "React",
+      "technology": "React router, Sass",
+      "competence": "Initialiser une application avec Create React App, configurer la navigation entre les pages de l'application avec React Router, développer des éléments de l'interface d'un site web grâce à des composants React, mettre en œuvre des animations CSS, développer une interface web avec Sass",
+      "url": "https://github.com/UllSif/kasa"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "",
-      "url": ""
+      "title": "724 events",
+      "description": "Débugger et finaliser le développement d'un site one-page",
+      "imageSrc": "../../images/724events.webp",
+      "language": "React",
+      "technology": "React Dev Tools",
+      "competence": "Débugger un site web grâce aux Chrome DevTools, rédiger un cahier de recette pour tester un site",
+      "url": "https://github.com/UllSif/724events"
     },
     {
       "id": "4",
-      "title": "Menu Maker",
-      "description": "Planifier le développement du site web, rédiger les spécifications techniques du projet, organiser le projet et créer un tableau Kanban.",
-      "imageSrc": "",
-      "url": ""
+      "title": "Nina Carducci",
+      "description": "Optimiser le référencement d’un site, en améliorant sa performance et son accessibilité.",
+      "imageSrc": "../../images/ninacarducci.webp",
+      "language": "Javascript",
+      "technology": "Tests unitaires, Wave Evaluation Tool, Lighthouse, Rich Snippet Google",
+      "competence": "Optimiser la performance d'un site web",
+      "url": "https://github.com/UllSif/ninacarducci"
     }
   ],
   "services": [
@@ -72,7 +84,19 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": {
+    "tagline": "Formation intégrateur web",
+    "school": "OpenClassrooms",
+    "diploma": "Diplôme de niveau 5 (bac +2)",
+    "description": "L’intégrateur Web est chargé d’intégrer les éléments visuels dans les pages d’un site web pour créer une interface harmonieuse, lisible et facilement navigable. Il a de solides connaissances des langages de programmation pour pouvoir afficher le plus fidèlement possible le design graphique sur tous types de navigateurs et tailles d’écrans.",
+    "tasks": [
+      "Créer une application web complète et responsive pour permettre à l’entreprise ou au client de vendre ses produits et services en ligne, sur tous types d’appareils.",
+      "Dynamiser des pages web pour mieux mettre en valeur les produits et service de l’entreprise ou du client.",
+      "Créer des interfaces communiquant avec le back-end du site pour élaborer des applications dynamiques et permettre aux clients de s’identifier sur le site.",
+      "Optimiser les performances et réaliser la maintenance de sites web déjà existants pour permettre leur fonctionnement optimal et une bonne visibilité sur les moteurs de recherche.",
+      "Gérer un projet web de A à Z : du chiffrage et découpage des tâches du projet à la présentation de la solution, en passant par la rédaction des spécifications techniques."
+    ]
+  },
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer, and maker.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
