@@ -36,7 +36,7 @@
       "title": "Argent Bank",
       "description": "Développement front-end d’une application bancaire en utilisant React et Redux pour créer une expérience utilisateur dynamique et réactive.",
       "imageSrc": "../../images/argent-bank.webp",
-      "language": "React",
+      "language": "Javascript, React",
       "technology": "Redux, Swagger",
       "competence": [
         "Afficher les données du back end sur l'interface via des appels API",
@@ -50,7 +50,7 @@
       "title": "Kasa",
       "description": "Implémenter le front-end d’une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive.",
       "imageSrc": "../../images/kasa.webp",
-      "language": "React",
+      "language": "Javascript, React",
       "technology": "React router, Sass",
       "competence": [
         "Initialiser une application avec Create React App",
@@ -65,7 +65,7 @@
       "title": "724 events",
       "description": "Débugger et finaliser le développement d'un site one-page",
       "imageSrc": "../../images/724events.webp",
-      "language": "React",
+      "language": "Javascript, React",
       "technology": "React Dev Tools",
       "competence": [
         "Débugger un site web grâce aux Chrome DevTools",
@@ -84,6 +84,20 @@
         "Optimiser la performance d'un site web"
       ],
       "url": "https://github.com/UllSif/ninacarducci"
+    },
+    {
+      "id": "5",
+      "title": "Otium",
+      "description": "Créer une application web de gestion d'évênement",
+      "imageSrc": "",
+      "language": "Javascript, PHP, MySql",
+      "technology": "FullCalendar",
+      "competence": [
+        "Gestion des intervenants",
+        "Gestion d'un planning, exportable et imprimable",
+        "Gestion du calendrier avec FullCalendar"
+      ],
+      "url": ""
     }
   ],
   "services": [
@@ -108,22 +122,36 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": {
-    "tagline": "Formation intégrateur web",
-    "school": "OpenClassrooms",
-    "diploma": "Diplôme de niveau 5 (bac +2)",
-    "description": "L’intégrateur Web est chargé d’intégrer les éléments visuels dans les pages d’un site web pour créer une interface harmonieuse, lisible et facilement navigable. Il a de solides connaissances des langages de programmation pour pouvoir afficher le plus fidèlement possible le design graphique sur tous types de navigateurs et tailles d’écrans.",
-    "tasks": [
-      "Créer une application web complète et responsive pour permettre à l’entreprise ou au client de vendre ses produits et services en ligne, sur tous types d’appareils.",
-      "Dynamiser des pages web pour mieux mettre en valeur les produits et service de l’entreprise ou du client.",
-      "Créer des interfaces communiquant avec le back-end du site pour élaborer des applications dynamiques et permettre aux clients de s’identifier sur le site.",
-      "Optimiser les performances et réaliser la maintenance de sites web déjà existants pour permettre leur fonctionnement optimal et une bonne visibilité sur les moteurs de recherche.",
-      "Gérer un projet web de A à Z : du chiffrage et découpage des tâches du projet à la présentation de la solution, en passant par la rédaction des spécifications techniques."
-    ]
-  },
+  "aboutpara": [
+    {
+      "tagline": "Formation intégrateur web",
+      "school": "OpenClassrooms",
+      "diploma": "Diplôme de niveau 5 (bac +2)",
+      "description": "L’intégrateur Web est chargé d’intégrer les éléments visuels dans les pages d’un site web pour créer une interface harmonieuse, lisible et facilement navigable. Il a de solides connaissances des langages de programmation pour pouvoir afficher le plus fidèlement possible le design graphique sur tous types de navigateurs et tailles d’écrans.",
+      "tasks": [
+        "Créer une application web complète et responsive pour permettre à l’entreprise ou au client de vendre ses produits et services en ligne, sur tous types d’appareils.",
+        "Dynamiser des pages web pour mieux mettre en valeur les produits et service de l’entreprise ou du client.",
+        "Créer des interfaces communiquant avec le back-end du site pour élaborer des applications dynamiques et permettre aux clients de s’identifier sur le site.",
+        "Optimiser les performances et réaliser la maintenance de sites web déjà existants pour permettre leur fonctionnement optimal et une bonne visibilité sur les moteurs de recherche.",
+        "Gérer un projet web de A à Z : du chiffrage et découpage des tâches du projet à la présentation de la solution, en passant par la rédaction des spécifications techniques."
+      ]
+    },
+    {
+      "tagline": "Formation développeur web",
+      "school": "Meshwork",
+      "diploma": "Diplôme de niveau 5 (bac +2) - Non obtenu",
+      "description": "L’intégrateur Web est chargé d’intégrer les éléments visuels dans les pages d’un site web pour créer une interface harmonieuse, lisible et facilement navigable. Il a de solides connaissances des langages de programmation pour pouvoir afficher le plus fidèlement possible le design graphique sur tous types de navigateurs et tailles d’écrans.",
+      "tasks": [
+        "Créer un site web en HTML5, CSS3, Javascript.",
+        "Serveur et base de données : PHP, MySQL, Node.js, MongoDB via Mongoose.",
+        "Frameworks : Symfony (création de site et développement d'API), Angular.",
+        "CMS : Wordpress."
+      ]
+    }
+  ],
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer, and maker.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "Bonjour, je m'appelle Guillaume, développeur et intégrateur web passionné, avec une expertise en HTML, JavaScript, et PHP. Mon parcours m'a permis de maîtriser des frameworks tels que React, Angular, et Symfony, que j'utilise pour créer des applications performantes et des interfaces utilisateur intuitives.",
+    "description": "Mon approche va au-delà de la technique : la communication et la collaboration sont pour moi essentielles, car elles garantissent que chaque projet réponde aux attentes des utilisateurs et des clients. Ouvert aux échanges et curieux, je m’assure toujours de rester à l’écoute pour concevoir des solutions sur mesure, adaptées aux besoins spécifiques de chaque projet.",
     "experiences": [
       {
         "id": "1",

@@ -24,7 +24,7 @@ const WorkCard = ({ img, name, description, onClick, language, technology, compe
       </div>
 
       <p className="text-xl mt-10">
-        Langages et Framework: {language}
+        Langages / Framework: {language}
       </p>
       <p className="text-xl">
         Technologies : {technology}

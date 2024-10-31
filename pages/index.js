@@ -10,6 +10,7 @@ import Head from "next/head";
 import Button from "../components/Button";
 import Link from "next/link";
 import Cursor from "../components/Cursor";
+import About from "../components/About";
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -99,21 +100,23 @@ export default function Home() {
         {/********************/}
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h2 className="text-2xl text-bold">À PROPOS</h2>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-5/5">
-            {data.aboutpara.tagline}
-          </p>
-          <span className="tablet:m-10 mt-2 text-l laptop:text-3l w-full laptop:w-5/5">
-            {data.aboutpara.diploma} - {data.aboutpara.school}
-          </span>
 
-          <div className="tablet:m-10 mt-2 text-l laptop:text-3l w-full laptop:w-5/5">
-            Compétences :
-            <ul className="list-disc">
-              {data.aboutpara.tasks.map((task, key) =>
-                  <li key={key}>{task}</li>
-              )}
-            </ul>
-          </div>
+          <p className="tablet:m-10 text-l laptop:text-3l w-full laptop:w-5/5">
+            {data.resume.tagline}
+          </p>
+          <p className="tablet:m-10 text-l laptop:text-3l w-full laptop:w-5/5">
+            {data.resume.description}
+          </p>
+
+          {data.aboutpara.map((about, key) =>
+             <About
+                 key={key}
+                 tagline={about.tagline}
+                 diploma={about.diploma}
+                 school={about.school}
+                 tasks={about.tasks}
+             />
+          )}
         </div>
 
         {/********************/}
