@@ -79,3 +79,7 @@ body {
 .profile-pic {
   width: 70%;
 }
+
+li {
+  margin-left: 20px;
+}

@@ -5,20 +5,30 @@
   "headerTaglineThree": "développeur et intégrateur web",
   "headerTaglineFour": "",
   "headerImage": "../../images/guillaume.webp",
-  "showBlog": true,
+  "showBlog": false,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/UllSif"
+      "link": "https://github.com/UllSif",
+      "logo": "github.svg",
+      "logoDark": "github-dark.webp"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/guillaumeweckering/"
+      "link": "https://www.linkedin.com/in/guillaumeweckering/",
+      "logo": "linkedin.svg",
+      "logoDark": "linkedin-dark.webp"
     },
-    { "id": "3", "title": "Email", "link": "mailto:weckering.guillaume@live.fr" }
+    {
+      "id": "3",
+      "title": "Email",
+      "link": "mailto:weckering.guillaume@live.fr",
+      "logo": "mail.svg",
+      "logoDark": "mail-dark.webp"
+    }
   ],
   "projects": [
     {
