@@ -6,7 +6,7 @@
   "headerTaglineFour": "",
   "headerImage": "../../images/guillaume.webp",
   "showBlog": false,
-  "darkMode": true,
+  "darkMode": false,
   "socials": [
     {
       "id": "1",
@@ -84,20 +84,6 @@
         "Optimiser la performance d'un site web"
       ],
       "url": "https://github.com/UllSif/ninacarducci"
-    },
-    {
-      "id": "5",
-      "title": "Otium",
-      "description": "Créer une application web de gestion d'évênement",
-      "imageSrc": "",
-      "language": "Javascript, PHP, MySql",
-      "technology": "FullCalendar",
-      "competence": [
-        "Gestion des intervenants",
-        "Gestion d'un planning, exportable et imprimable",
-        "Gestion du calendrier avec FullCalendar"
-      ],
-      "url": ""
     }
   ],
   "services": [
@@ -127,6 +113,7 @@
       "tagline": "Formation intégrateur web",
       "school": "OpenClassrooms",
       "diploma": "Diplôme de niveau 5 (bac +2)",
+      "date": "2024",
       "description": "L’intégrateur Web est chargé d’intégrer les éléments visuels dans les pages d’un site web pour créer une interface harmonieuse, lisible et facilement navigable. Il a de solides connaissances des langages de programmation pour pouvoir afficher le plus fidèlement possible le design graphique sur tous types de navigateurs et tailles d’écrans.",
       "tasks": [
         "Créer une application web complète et responsive pour permettre à l’entreprise ou au client de vendre ses produits et services en ligne, sur tous types d’appareils.",
@@ -140,6 +127,7 @@
       "tagline": "Formation développeur web",
       "school": "Meshwork",
       "diploma": "Diplôme de niveau 5 (bac +2) - Non obtenu",
+      "date": "2020-2021",
       "description": "L’intégrateur Web est chargé d’intégrer les éléments visuels dans les pages d’un site web pour créer une interface harmonieuse, lisible et facilement navigable. Il a de solides connaissances des langages de programmation pour pouvoir afficher le plus fidèlement possible le design graphique sur tous types de navigateurs et tailles d’écrans.",
       "tasks": [
         "Créer un site web en HTML5, CSS3, Javascript.",

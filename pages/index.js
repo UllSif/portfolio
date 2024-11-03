@@ -1,14 +1,10 @@
 import { useRef } from "react";
 import Header from "../components/Header";
-import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
 import WorkCard from "../components/WorkCard";
 import { useIsomorphicLayoutEffect } from "../utils";
 import { stagger } from "../animations";
-import Footer from "../components/Footer";
 import Head from "next/head";
-import Button from "../components/Button";
-import Link from "next/link";
 import Cursor from "../components/Cursor";
 import About from "../components/About";
 
@@ -114,6 +110,7 @@ export default function Home() {
                  tagline={about.tagline}
                  diploma={about.diploma}
                  school={about.school}
+                 date={about.date}
                  tasks={about.tasks}
              />
           )}
