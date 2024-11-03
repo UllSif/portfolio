@@ -4,10 +4,10 @@ const About = ({tagline, diploma, school, date, tasks}) => {
     return (
         <>
             <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-5/5">
-                {tagline}
+                {tagline ? tagline : ""}
             </p>
             <span className="tablet:m-10 text-l laptop:text-3l w-full laptop:w-5/5">
-                {diploma} - {school} - {date}
+                {diploma ? diploma + " - " : ""} {school ? school + " - " : ""}  {date ? date : ""}
             </span>
 
             <div className="tablet:m-10 text-l laptop:text-3l w-full laptop:w-5/5">

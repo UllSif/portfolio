@@ -124,6 +124,18 @@
       ]
     },
     {
+      "tagline": "Développeur web et web mobile",
+      "school": "ACT-CS",
+      "diploma": "",
+      "date": "2021-2022",
+      "description": "Développement d'application web",
+      "tasks": [
+        "Réalisation d'une application web de gestion d'évênement en PHP/Javascript.",
+        "Création d'une application de récupération de données automatique à partir d'un site web, avec Python et Selenium.",
+        "Portage d'un site en PHP vers une version moderne avec Symfony."
+      ]
+    },
+    {
       "tagline": "Formation développeur web",
       "school": "Meshwork",
       "diploma": "Diplôme de niveau 5 (bac +2) - Non obtenu",
