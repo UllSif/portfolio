@@ -66,7 +66,7 @@
       "description": "Débugger et finaliser le développement d'un site one-page",
       "imageSrc": "../../images/724events.webp",
       "language": "Javascript, React",
-      "technology": "React Dev Tools",
+      "technology": "Tests unitaires, React Dev Tools",
       "competence": [
         "Débugger un site web grâce aux Chrome DevTools",
         "Rédiger un cahier de recette pour tester un site"
@@ -79,7 +79,7 @@
       "description": "Optimiser le référencement d’un site, en améliorant sa performance et son accessibilité.",
       "imageSrc": "../../images/ninacarducci.webp",
       "language": "Javascript",
-      "technology": "Tests unitaires, Wave Evaluation Tool, Lighthouse, Rich Snippet Google",
+      "technology": "Wave Evaluation Tool, Lighthouse, Rich Snippet Google",
       "competence": [
         "Optimiser la performance d'un site web"
       ],
